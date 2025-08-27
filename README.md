@@ -10,7 +10,7 @@ The goal of this project is to develop a robust machine learning model that accu
 
 ## 2. Dataset
 
-The analysis is based on a dataset from [Kaggle][https://www.kaggle.com/datasets/ismetsemedov/personal-budget-transactions-dataset] containing individual transactions. The key columns are:
+The analysis is based on a dataset from [Kaggle](https://www.kaggle.com/datasets/ismetsemedov/personal-budget-transactions-dataset) containing individual transactions. The key columns are:
 
 -   `date`: The timestamp of the transaction.
 -   `category`: The spending category (e.g., Restaurant, Market, Health).
